@@ -1,0 +1,2 @@
+# Pinnacle
+Fake news Detection
